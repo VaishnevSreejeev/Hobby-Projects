@@ -1,6 +1,6 @@
 '''
 Your First Task:
-Try to manually calculate what happens when:
+Try to calculate what happens when:
 
 Input: [2, 3]
 Weights: [0.5, -0.3]
